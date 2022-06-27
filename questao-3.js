@@ -1,4 +1,4 @@
-let dadosJSON = require("./dados.json")
+const dadosJSON = require("./dados.json")
 
 let menorValor = dadosJSON[0]["valor"]
 let maiorValor = dadosJSON[0]["valor"]
